@@ -7,6 +7,7 @@ Solar powered camera for bird feeder.
 ### :link: EN Project [info bellow](#english), :arrow_down:
 
 ## :information_source:  Základné informácie 
+Živý pohľad je dostupný na adrese [vtaciky.lukasporubcan.sk](https://vtaciky.lukasporubcan.sk)
 Projekt popisuje použitie lacného modulu ESP-32 CAM, ako kameru ktorá sníma vtáčikov v kŕmidle umiestnenom na balkóne bytového domu. 
 Riešenie je energeticky sebestačné, napájané štvoricou solárnych panelov. 
 
@@ -40,6 +41,7 @@ Pre vyššiu odolnosť pôsobením vonkajších vplyvov odporúčam krabičku tl
 
 
 ## :information_source:  <span id="english">Basic informations</span>
+You can check live view at [vtaciky.lukasporubcan.sk](https://vtaciky.lukasporubcan.sk)
 In this project I use cheap ESP-32 CAM module as camera for capturing birds in birds feeder, placed at balcony of our building. 
 Solution is self powered with help of 4 solar panels mounted to the roof. 
 

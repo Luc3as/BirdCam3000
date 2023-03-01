@@ -1,6 +1,6 @@
  # :bird: BirdCam3000
 Solar powered camera for bird feeder.
-![BirdCam3000 rendered visualisation]("Render/render (2).png")
+![BirdCam3000 rendered visualisation](Render/render1.png)
 
 ### EN Project info bellow :arrow_down:
 

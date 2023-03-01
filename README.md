@@ -1,6 +1,6 @@
  # :bird: BirdCam3000
 Solar powered camera for bird feeder.
-
+![BirdCam3000 rendered visualisation]("Render/render (2).png")
 
 ### EN Project info bellow :arrow_down:
 
@@ -27,4 +27,5 @@ Rozloženie, obrázky a celkovú kompozíciu webu som vygeneroval umelou intelig
 
 Časti zdrojového kódu webu ktorý má na starosti načítavanie aktuálneho obrázku z kamery, ako aj zobrazenie počasia, napísala taktiež umelá inteligencia, cez službu ChatGPT. 
 
-
+### :ice_cube: Krabička
+Všetky súbory pre uloženie komponentov sú dostupné v zložke 3D-files. Súčasťou krabičky je integrovaný tunel pre binderku ktorá zabezpečuje batérie pred pohybom. Pre jednoduchšiu tlač je kryt kamery a svetelného senzoru vytlačená zvlášť a spolu sú prichytené sekundovým lepidlom. 
